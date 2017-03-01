@@ -4,3 +4,8 @@ reporting/*/third_party
 reporting/*/html
 inspect.html
 /example/float128_examples.cpp
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
