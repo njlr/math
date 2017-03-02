@@ -24,5 +24,4 @@ prebuilt_cxx_library(
   visibility = [
     'PUBLIC',
   ],
-  deps = BUCKAROO_DEPS,
 )
